@@ -1,0 +1,88 @@
+Supplementary Table 3. Summary of gene signatures used in this study			
+signatures	type	resources	PMID
+Th1.angelova	cell freaction	Angelova et al	25853550
+Th17.angelova	cell freaction	Angelova et al	25853550
+Th2.angelova	cell freaction	Angelova et al	25853550
+MDSC.angelova	cell freaction	Angelova et al	25853550
+B cells naive.newman	cell freaction	Newman et al	25822800
+B cells memory.newman	cell freaction	Newman et al	25822800
+Plasma cells.newman	cell freaction	Newman et al	25822800
+T cells CD8.newman	cell freaction	Newman et al	25822800
+T cells CD4 naive.newman	cell freaction	Newman et al	25822800
+T cells CD4 memory resting.newman	cell freaction	Newman et al	25822800
+T cells CD4 memory activated.newman	cell freaction	Newman et al	25822800
+T cells follicular helper.newman	cell freaction	Newman et al	25822800
+T cells regulatory (Tregs).newman	cell freaction	Newman et al	25822800
+T cells gamma delta.newman	cell freaction	Newman et al	25822800
+NK cells resting.newman	cell freaction	Newman et al	25822800
+NK cells activated.newman	cell freaction	Newman et al	25822800
+Monocytes.newman	cell freaction	Newman et al	25822800
+Macrophages M0.newman	cell freaction	Newman et al	25822800
+Macrophages M1.newman	cell freaction	Newman et al	25822800
+Macrophages M2.newman	cell freaction	Newman et al	25822800
+Dendritic cells resting.newman	cell freaction	Newman et al	25822800
+Dendritic cells activated.newman	cell freaction	Newman et al	25822800
+Mast cells resting.newman	cell freaction	Newman et al	25822800
+Mast cells activated.newman	cell freaction	Newman et al	25822800
+Eosnophils.newman	cell freaction	Newman et al	25822800
+Neutrophils.newman	cell freaction	Newman et al	25822800
+Endothelials.Becht	cell freaction	Becht et al	27765066
+Fibroblasts.Becht	cell freaction	Becht et al	27765067
+GEP	immune infiltration	Cristescu et al	30309915
+leukocyte.infiltration	immune infiltration	wolf et al	24516633
+IFN-gamma.response.signature	immune infiltration	Ayers et al	28650338
+hot.tumor.signautre	immune infiltration	Givechian et al	29928512
+Th1.signatue	immune infiltration	Bedognetti et al	26967649
+Tcell_infiltration_1	immune infiltration	wolf et al	24516633
+CD8.T.cells.exhuasted	immune infiltration	Zhang et al	30479382
+CD4.T.cells.exhuasted	immune infiltration	Zhang et al	30479382
+TcClassII_score	immune infiltration	wolf et al	24516633
+TAMsurr_score	immune infiltration	wolf et al	24516633
+TAMsurr_TcClassII_ratio	immune infiltration	wolf et al	24516633
+MHC.II	immune infiltration	wolf et al	24516633
+MHC.I	immune infiltration	wolf et al	24516633
+TGFB.response.wolf	immune evasion	wolf et al	24516633
+WESTON_VEGFA_TARGETS_12HR	immune evasion	Hugo et al	26997480
+EMT_UP	immune evasion	Loboda et al	21251323
+up.ECM.signature	immune evasion	Chakravarthy et al	30410077
+IPRES	immune evasion	Hugo et al	26997480
+ipres-MAHADEVAN_GIST_MORPHOLOGICAL_SWITCH	immune evasion	Hugo et al	26997480
+ipres-LEF1_UP.V1_UP	immune evasion	Hugo et al	26997480
+ipres-CHARAFE_BREAST_CANCER_BASAL_VS_MESENCHYMAL_UP	immune evasion	Hugo et al	26997480
+ipres-VECCHI_GASTRIC_CANCER_ADVANCED_VS_EARLY_UP	immune evasion	Hugo et al	26997480
+ipres-LIEN_BREAST_CARCINOMA_METAPLASTIC	immune evasion	Hugo et al	26997480
+ipres-WESTON_VEGFA_TARGETS_6HR	immune evasion	Hugo et al	26997480
+ipres-WESTON_VEGFA_TARGETS_12HR	immune evasion	Hugo et al	26997480
+ipres-LU_TUMOR_ENDOTHELIAL_MARKERS_UP	immune evasion	Hugo et al	26997480
+ipres-LU_TUMOR_VASCULATURE_UP	immune evasion	Hugo et al	26997480
+ipres-ROY_WOUND_BLOOD_VESSEL_UP	immune evasion	Hugo et al	26997480
+ipres-MISHRA_CARCINOMA_ASSOCIATED_FIBROBLAST_UP	immune evasion	Hugo et al	26997480
+ipres-POOLA_INVASIVE_BREAST_CANCER_UP	immune evasion	Hugo et al	26997480
+ipres-YE_METASTATIC_LIVER_CANCER	immune evasion	Hugo et al	26997480
+ipres-KARAKAS_TGFB1_SIGNALING	immune evasion	Hugo et al	26997480
+ipres-JAEGER_METASTASIS_DN	immune evasion	Hugo et al	26997480
+ipres-LU_TUMOR_ANGIOGENESIS_UP	immune evasion	Hugo et al	26997480
+ipres-MAINA_VHL_TARGETS_DN	immune evasion	Hugo et al	26997480
+ipres-HARRIS_HYPOXIA	immune evasion	Hugo et al	26997480
+ipres-JEON_SMAD6_TARGETS_UP	immune evasion	Hugo et al	26997480
+ipres-MAPKi_INDUCED_EMT	immune evasion	Hugo et al	26997480
+ipres-MAPKi_INDUCED_ANGIOGENESIS	immune evasion	Hugo et al	26997480
+ipres-EP_BLOOD_VESS_DEVEL_DN_IN_R	immune evasion	Hugo et al	26997480
+ipres-MS_RESP_TO_WOUNDING_UP_IN_MAPKi_aPDL1_NR	immune evasion	Hugo et al	26997480
+ipres-POST_OP_WOUNDHEALING	immune evasion	Hugo et al	26997480
+			
+			
+Lymphocyte.Infiltration	immune infiltration	Thorsson et al	29628290
+TCR.Shannon	TCR/BCR index	Thorsson et al	29628290
+BCR.Shannon	TCR/BCR index	Thorsson et al	29628290
+TCR.Richness	TCR/BCR index	Thorsson et al	29628290
+BCR.Richness	TCR/BCR index	Thorsson et al	29628290
+TCR.Evenness	TCR/BCR index	Thorsson et al	29628290
+BCR.Evenness	TCR/BCR index	Thorsson et al	29628290
+Aneuploidy.Score	genetic changes	Thorsson et al	29628290
+Homologous.Recombination.Defects	genetic changes	Thorsson et al	29628290
+Number.of.Segments	genetic changes	Thorsson et al	29628290
+Fraction.Altered	genetic changes	Thorsson et al	29628290
+SNV.Neoantigens	genetic changes	Thorsson et al	29628290
+Indel.Neoantigens	genetic changes	Thorsson et al	29628290
+Intratumor.Heterogeneity	genetic changes	Thorsson et al	29628290
